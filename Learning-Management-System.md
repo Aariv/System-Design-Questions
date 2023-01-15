@@ -19,10 +19,10 @@
 * CDN: The CDN will be responsible for storing and delivering multimedia files such as videos and audio recordings to the users.
 
 4. Selecting technologies and tools: The technologies and tools that can be used to implement the system are:
-* Front-end: React, Angular, Vue.js
-* Back-end: Node.js, Java, Ruby on Rails
-* Database: MySQL, MongoDB, Cassandra
-* CDN: AWS CloudFront, Akamai
+* Front-end: React
+* Back-end: Java
+* Database: MySQL, MongoDB
+* CDN: AWS CloudFront
 
 5. Implementing and testing: The system should be implemented according to the design and tested for correct functionality, performance and scalability. This can be done using automated testing frameworks and load testing tools.
 

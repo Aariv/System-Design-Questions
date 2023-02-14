@@ -6,7 +6,7 @@
 4. Integration with accounting and other enterprise software
 5. Reporting features to provide insights into inventory levels, stock usage, and trends
 
-Non-functional requirements of an inventory management system might include:
+# Non-functional requirements of an inventory management system might include:
 
 1. Performance requirements such as response time and processing speed
 2. Usability requirements such as ease of use and user-friendliness

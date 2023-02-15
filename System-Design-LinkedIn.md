@@ -1,4 +1,4 @@
-# As a professional social networking platform, LinkedIn has a number of functional requirements that are essential to its overall operation and user experience. Here are some of the key functional requirements of LinkedIn:
+# LinkedIn functional requirements:
 
 1. User registration and profile creation: LinkedIn allows users to create an account and build a profile that highlights their professional experience, education, skills, and other relevant information.
 2. Networking and connections: Users can connect with other professionals in their industry or field, allowing them to expand their network and build new relationships.

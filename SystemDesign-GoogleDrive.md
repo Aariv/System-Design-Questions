@@ -1,6 +1,10 @@
 # Google Drive
 Functional Requirements for Google Drive:
 
+
+![GDrive](https://user-images.githubusercontent.com/11393142/224553312-3d29cb51-3802-4bee-ad45-c46976fd8554.png)
+
+
 1. User Authentication: Ability for users to sign up and log in to their account.
 2. File Upload: Ability for users to upload and store different types of files (e.g. documents, images, videos, etc.).
 3. File Sharing: Ability for users to share files with other users and set different levels of access (e.g. read-only, edit, etc.).

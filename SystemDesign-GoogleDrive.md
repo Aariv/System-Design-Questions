@@ -1,5 +1,5 @@
 # Google Drive
-Functional Requirements for Google Drive:
+# Functional Requirements for Google Drive:
 
 
 ![GDrive](https://user-images.githubusercontent.com/11393142/224553312-3d29cb51-3802-4bee-ad45-c46976fd8554.png)
@@ -14,7 +14,7 @@ Functional Requirements for Google Drive:
 7. Mobile Access: Ability for users to access their files from their mobile devices.Integration with Other Google Services: 
 8. Integration with other Google services such as Google Docs, Google Sheets, etc.
 
-Non-Functional Requirements for Google Drive:
+# Non-Functional Requirements for Google Drive:
 1. Scalability: Ability to handle large amounts of data and a large number of users.
 2. Availability: High availability to ensure users can access their files whenever they need to.
 3. Performance: Fast file upload, download and access times.

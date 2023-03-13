@@ -23,6 +23,7 @@
 * Back-end: Java
 * Database: MySQL, MongoDB
 * CDN: AWS CloudFront
+* 
 
 5. Implementing and testing: The system should be implemented according to the design and tested for correct functionality, performance and scalability. This can be done using automated testing frameworks and load testing tools.
 

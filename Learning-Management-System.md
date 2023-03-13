@@ -1,5 +1,7 @@
 # Learning Management System
 
+![LMS-v1](https://user-images.githubusercontent.com/11393142/224769601-b24819cf-5748-4ec9-b7ad-976ccbd5ba84.png)
+
 1. Understanding the problem: The problem to be solved is to design a system that allows users to access, manage, and track their learning materials and progress. The system should allow users to access a wide range of learning materials such as documents, videos, audio recordings, and assessments. It should also allow users to track their progress, take assessments, and receive feedback on their performance.
 
 2. Defining the high-level architecture: The high-level architecture of the LMS would consist of several main components:
@@ -23,7 +25,6 @@
 * Back-end: Java
 * Database: MySQL, MongoDB
 * CDN: AWS CloudFront
-* 
 
 5. Implementing and testing: The system should be implemented according to the design and tested for correct functionality, performance and scalability. This can be done using automated testing frameworks and load testing tools.
 

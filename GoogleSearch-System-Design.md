@@ -1,6 +1,9 @@
 # Google Search
 Google's search system is one of the most complex and sophisticated software systems ever built. It is designed to process billions of web pages, index them, and retrieve relevant results for user queries in a matter of milliseconds. Here's an overview of how Google's search system is designed:
 
+![GSM-v1](https://user-images.githubusercontent.com/11393142/224858502-bcdff707-6604-43da-9b0d-b86573bc576e.png)
+
+
 # Crawling: 
 Google's search system starts with a process called crawling, where automated software called "spiders" crawl the web and discover new pages. The spiders follow links on web pages to discover new content, and they continuously revisit previously crawled pages to check for updates.
 

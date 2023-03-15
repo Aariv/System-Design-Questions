@@ -13,7 +13,7 @@ Once the vehicle data is in Kafka, you can use Kafka Streams or Kafka Connect to
 # Monitor Vehicle Data in Real-Time:
 To monitor the vehicle data in real-time, you can use a Kafka consumer to read the data from the Kafka topic and display it on a dashboard. You can use a dashboard tool like Grafana or Kibana to visualize the data and set up alerts when certain conditions are met, such as when a vehicle's speed exceeds a certain threshold or when the fuel level is low.
 
-Scale the System:
+# Scale the System:
 As the number of vehicles in your fleet grows, you may need to scale the Kafka system to handle the increased load. You can add more Kafka brokers or use a Kafka cluster to distribute the load across multiple nodes. You can also use Kafka Connect to stream the data to a distributed database like Apache Cassandra or Apache Hadoop for storage and analysis.
 
 By using Kafka to track and monitor transportation vehicles in real-time, you can improve operational efficiency, reduce fuel costs, and increase safety. With Kafka Streams and Kafka Connect, you can easily process and analyze large volumes of data in real-time and scale the system as your fleet grows.

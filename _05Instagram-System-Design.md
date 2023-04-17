@@ -1,8 +1,7 @@
-# Instagram 
+# Instagram
 
-![Instagram](https://user-images.githubusercontent.com/11393142/232362865-7e37db36-905a-4b65-ae5c-a6e102bdc396.png)
-
-
+![Insta-Arch](https://user-images.githubusercontent.com/11393142/232363199-d79ae8b8-f12a-40ff-9445-35397d917468.png)
+ 
 # Functional Requirements
 # Posting
 1. Users can post photos and videos.
@@ -33,6 +32,10 @@
 
 # Direct Messaging
 1. Users can send and receive direct messages.
+
+# UML Diagram
+
+![Instagram](https://user-images.githubusercontent.com/11393142/232362865-7e37db36-905a-4b65-ae5c-a6e102bdc396.png)
 
 # Non-functional Requirements
 ## Scalability

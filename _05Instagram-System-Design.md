@@ -1,3 +1,8 @@
+# Instagram 
+
+![Instagram](https://user-images.githubusercontent.com/11393142/232362865-7e37db36-905a-4b65-ae5c-a6e102bdc396.png)
+
+
 # Functional Requirements
 # Posting
 1. Users can post photos and videos.
